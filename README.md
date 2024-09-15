@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/ITDemoLabs-MSL/b04ee792-3f82-4eba-af09-f8ef51d31ae0/cc9d6235-9f1f-4c38-a988-40090787e2b8/_apis/work/boardbadge/8e3fc701-4293-44d9-800a-eba06c62a50d)](https://dev.azure.com/ITDemoLabs-MSL/b04ee792-3f82-4eba-af09-f8ef51d31ae0/_boards/board/t/cc9d6235-9f1f-4c38-a988-40090787e2b8/Microsoft.RequirementCategory)
 
 # Contributing
 
